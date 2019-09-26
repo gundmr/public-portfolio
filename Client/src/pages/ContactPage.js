@@ -43,10 +43,10 @@ class ContactPage extends React.Component {
         });
 
         // TO TEST IN DEVELOPMENT ONLY
-        Axios.post('http://localhost:3030/api/email', this.state)
+        // Axios.post('http://localhost:3030/api/email', this.state)
 
 
-        // Axios.post('/api/emai', this.state)
+        Axios.post('/api/emai', this.state)
             .then(res => {
                 if(res.data.success) {
                     this.setState({
