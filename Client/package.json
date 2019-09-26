@@ -1,5 +1,5 @@
 {
-  "name": "portafolio",
+  "name": "public-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,12 +38,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gundmr/portafolio.git"
+    "url": "git+https://github.com/gundmr/public-portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gundmr/portafolio/issues"
+    "url": "https://github.com/gundmr/public-portfolio/issues"
   },
-  "homepage": "https://github.com/gundmr/portafolio#readme"
+  "homepage": "https://github.com/gundmr/public-portfolio#readme"
 }
